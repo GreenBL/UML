@@ -16,3 +16,5 @@ _book
 *.pdf
 .asta.lock
 *.asta.lock
+.DS_store
+*.DS_store
