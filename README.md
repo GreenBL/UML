@@ -12,7 +12,6 @@ Diagrammi UML su astah e documentazione.
 7. Unite i progetti e verificate l'integrità della struttura del progetto.
 8. Una volta ultimate le modifiche, con il branch master-merged selezionato, fate commit e push.
 
-> [info] 
 > è importante che avvisiate prima di fare merge, così da evitare problemi di concorrenza, fate merge solo quando avete finito il vostro pezzo!
 
 
